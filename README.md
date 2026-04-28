@@ -1,5 +1,6 @@
 # Nástroj pro odhad retenční schopnosti území (metoda SCS-CN)
-Bakalářská práce
+
+Uživatel si musí v souborech config.py a spouštěcích skriptech upravit cesty k interpretu Pythonu a datům podle svého lokálního nastavení.
 
 Tento softwarový nástroj v jazyce Python byl vyvinut jako praktický výstup bakalářské práce. Slouží k automatizovanému výpočtu potenciální retence krajiny a odhadu povrchového odtoku na základě integrace dat o využití území (CORINE Land Cover) a pedologických vlastností (BPEJ).
 
