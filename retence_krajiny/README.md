@@ -2,7 +2,6 @@
 
 Tento softwarový nástroj v jazyce Python byl vyvinut jako praktický výstup bakalářské práce. Slouží k automatizovanému výpočtu potenciální retence krajiny a odhadu povrchového odtoku na základě integrace otevřených prostorových dat.
 
-[Image of a software data flow diagram]
 
 ## 🎯 Cíle projektu
 * **Integrace heterogenních dat:** Spojení informací o hydrologických skupinách půd (BPEJ) a využití území (CORINE Land Cover).
